@@ -1,7 +1,8 @@
 import cv2
 draw=False
 a=(0,0)
-img=cv2.imread("test.jpg")
+img_name=input("your image path to draw: ")
+img=cv2.imread(img_name)
 color=(0,0,0)
 def on_click(event, x, y, p1, p2):
 	global draw
