@@ -5,6 +5,13 @@ _________________________
 
 python paint.py
 
+
+then input your image path
+
+example :  paint.jpg
+____________________________________
+
+
 for red pres r button in keyboard
 
 for blue pres b button in keyboard
